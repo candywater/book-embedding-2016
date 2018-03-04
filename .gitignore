@@ -1,0 +1,25 @@
+a.out
+*.obj
+*.o
+*.exe
+*.swp
+*.class
+
+.DS_Store
+2.t
+.stashfiles/
+.stashfile
+
+##for lab
+*.out
+
+##
+/src/heuristic/test.*
+/src/heuristic/a.out.dSYM/*
+/src/heuristic/*.data
+/src/heuristic/data/*
+/src/heuristic/output
+/src/heuristic/experiment
+/src/heuristic/.vscode
+/src/heuristic/_input_format_converse_/output
+*.dSYM
